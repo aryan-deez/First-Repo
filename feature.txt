@@ -1,1 +1,3 @@
 This is change to feature.txt to test git diff
+
+I am making change now to test if git diff gives me any difference
